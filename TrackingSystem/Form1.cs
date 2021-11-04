@@ -19,8 +19,8 @@ namespace TrackingSystem
         //firestore settings
         IFirebaseConfig ifc = new FirebaseConfig()
         {
-            AuthSecret = "E7U4GeB4XUjYcNndOaSp0OAXr1Wh3agyvOuYX8rp",
-            BasePath = "https://kargosistemi-default-rtdb.firebaseio.com/"
+            AuthSecret = "FIREBASE AUTH SECRET",
+            BasePath = "FIREBASE BASE PATH"
         };
         IFirebaseClient client;
         public Form1()
