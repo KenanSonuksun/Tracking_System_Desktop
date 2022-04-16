@@ -16,6 +16,8 @@ The project is a desktop application. In this desktop application you have to si
   4) Design and Clean Code
  <br><br>
  
+ Google Map has been removed informations because of security.
+ 
 Thank you for taking your time to read. You can contact me from my accounts below.<br>
 <br>
 
